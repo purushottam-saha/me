@@ -1,2 +1,2 @@
-# me
-my website
+# website
+This repository contains my personal website
